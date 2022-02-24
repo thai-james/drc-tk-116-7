@@ -156,7 +156,7 @@
     function updateSubmit(form) {
         $('.js_submit').attr("style","display:none;");
         $('.js_submit').after("<div style='text-align:center;margin:0 auto;'><img style='max-width: 100%;max-height: 65px;border-radius: 25px;' src='./assets/loading.gif'></div>");
-        var flow_hash = 'DhPb9U5caT';
+        var flow_hash = 'F7uBJivZ6b';
         var geo = 'th';
         var name = form.find('input[name="name"]');
         var phone = form.find('input[name="phone"]');
